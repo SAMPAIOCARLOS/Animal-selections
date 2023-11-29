@@ -1,0 +1,129 @@
+
+[
+    {
+        "nome": "Elefante",
+        "infor": ["Os elefantes são mamíferos que se destacam pelo seu tamanho impressionante.", "Os elefantes possuem uma tromba alongada e flexível, que é uma adaptação única e versátil.", "Alguns elefantes, como os elefantes africanos de savana, possuem presas de marfim, que são curvas e podem medir cerca de 350 cm de comprimento", "Os elefantes são animais herbívoros e se alimentam de uma grande quantidade de vegetais todos os dias, podendo ingerir mais de 100 kg de alimento diariamente.", "Existem diferentes espécies de elefantes, como o elefante africano (Loxodonta africana) e o elefante asiático (Elephas maximus)"],
+        "url": "img animais/Mamíferos/Elefante.jpg",
+        "type": "Mamífero"
+    },
+    {
+        "nome": "Leão",
+        "infor": [" O leão pode ser encontrado na África e na Ásia. Ele vive em savanas, pradarias e áreas de vegetação densa.","Os leões vivem em grupos chamados de (coalizões) ou (manadas). As coalizões são formadas por um ou mais machos adultos, enquanto as manadas são compostas por fêmeas adultas e seus filhotes.", "Os leões são carnívoros e se alimentam principalmente de outros animais, como gnus, zebras e antílopes. As fêmeas geralmente são as responsáveis pela caça, enquanto os machos podem se alimentar primeiro.","Os leões são animais de grande porte, com os machos sendo maiores e mais pesados do que as fêmeas.", "Atualmente, as populações de leões estão em declínio e a espécie é classificada como vulnerável pela IUCN (União Internacional para a Conservação da Natureza)."],
+        "url": "img animais/Mamíferos/leão.webp",
+        "type": "Mamífero"
+    },
+    {
+        "nome": "Gorila",
+        "infor": ["Atualmente, as populações de leões estão em declínio e a espécie é classificada como vulnerável pela IUCN (União Internacional para a Conservação da Natureza).", "Os gorilas são encontrados nas florestas tropicais da África Central, incluindo países como República Democrática do Congo, Uganda e Ruanda.", "Os gorilas vivem em grupos chamados de (tropas). Cada tropa é liderada por um macho dominante, conhecido como (chefe de prata). As tropas são compostas por várias fêmeas adultas, filhotes e alguns machos jovens.", "Os gorilas são herbívoros e sua dieta consiste principalmente de folhas, brotos, frutas e raízes. Eles têm uma mandíbula poderosa e dentes adaptados para triturar alimentos fibrosos.", "Os gorilas estão ameaçados de extinção devido à perda de habitat, caça ilegal e doenças. Atualmente, existem duas espécies de gorilas: o gorila oriental e o gorila ocidental, ambos listados como criticamente em perigo pela IUCN."],
+        "url": "img animais/Mamíferos/Gorilla.jpg",
+        "type": "Mamífero"
+    },
+    {
+      "nome": "Baleia",
+      "infor": ["As baleias são os maiores animais do planeta. Algumas espécies, como a baleia-azul, podem atingir comprimentos de até 30 metros, enquanto outras espécies, como a baleia-jubarte, têm cerca de 15 metros de comprimento.", "As baleias são animais filtradores e se alimentam principalmente de pequenos organismos marinhos, como krill e plâncton.", "Muitas espécies de baleias realizam migrações impressionantes ao longo do ano. Elas viajam grandes distâncias entre áreas de alimentação e áreas de reprodução, seguindo rotas específicas.", "As baleias são conhecidas por sua comunicação complexa. Elas emitem sons, como cantos e vocalizações, que podem ser ouvidos a grandes distâncias debaixo d'água. Esses sons desempenham um papel importante na comunicação social e na localização de presas.", "As baleias enfrentam várias ameaças, incluindo a caça comercial no passado, colisões com embarcações, poluição sonora dos oceanos e mudanças climáticas."],
+      "url": "img animais/Mamíferos/Baleia.webp",
+      "type": "Mamífero"
+    },
+    {
+      "nome": "Macaco",
+      "infor": ["Existem muitas espécies de macacos em todo o mundo, incluindo o macaco-aranha, macaco-rhesus, macaco-prego e muitos outros.", "Os macacos são encontrados em várias regiões do mundo, incluindo florestas tropicais, savanas, montanhas e até mesmo áreas urbanas.", "Os macacos são animais sociais e vivem em grupos chamados de tropas ou bandos. Esses grupos são compostos por vários indivíduos, incluindo machos, fêmeas e filhotes. Eles interagem entre si por meio de vocalizações, gestos e comportamentos complexos.", "A dieta dos macacos varia dependendo da espécie e do ambiente em que vivem. Alguns macacos são principalmente herbívoros, se alimentando de frutas, folhas e sementes, enquanto outros são onívoros, consumindo também insetos e pequenos animais.", "Os macacos são conhecidos por sua inteligência e habilidades cognitivas. Eles são capazes de usar ferramentas, resolver problemas simples, comunicar-se de forma complexa e até mesmo aprender com a observação de outros macacos."],
+      "url": "img animais/Mamíferos/Macaco.jpg",
+      "type": "Mamífero"
+    },
+    {
+      "nome": "Cachorro",
+      "infor": ["As baleias enfrentam várias ameaças, incluindo a caça comercial no passado, colisões com embarcações, poluição sonora dos oceanos e mudanças climáticas.", "Os cachorros são animais inteligentes e podem ser treinados para realizar uma variedade de tarefas, como obediência básica, truques, trabalho de serviço e até mesmo atividades esportivas.", "Os cachorros são animais sociais e geralmente têm uma forte ligação com seus donos. Eles são conhecidos por sua lealdade e capacidade de formar laços afetivos com os membros da família.", "Os cachorros se comunicam de várias maneiras, incluindo vocalizações (como latidos, rosnados e uivos), linguagem corporal (como abanar o rabo, inclinar a cabeça e postura corporal) e expressões faciais.", "Ter um cachorro como animal de estimação pode trazer vários benefícios para a saúde física e mental."],
+      "url": "img animais/Mamíferos/Cachorro.jpeg",
+      "type": "Mamífero"
+    },
+    {
+      "nome": "Girafa",
+      "infor": ["Os macacos são conhecidos por sua inteligência e habilidades cognitivas. Eles são capazes de usar ferramentas, resolver problemas simples, comunicar-se de forma complexa e até mesmo aprender com a observação de outros macacos.", "O pescoço da girafa pode medir até 2,5 metros de comprimento. Apesar de terem sete vértebras cervicais, assim como outros mamíferos, as vértebras da girafa são alongadas, permitindo que ela alcance folhas e brotos em árvores altas.", "As girafas têm uma pelagem curta e manchada, que varia em cores e padrões entre as diferentes subespécies. Essas manchas ajudam a camuflar as girafas em seu ambiente natural.", "As girafas são herbívoras e se alimentam principalmente de folhas, brotos e frutas encontradas nas copas das árvores.", "As girafas são animais sociais e geralmente vivem em grupos chamados de (manadas). Essas manadas podem ser compostas por fêmeas adultas e seus filhotes. Os machos tendem a ser solitários ou formar grupos menores."],
+      "url": "img animais/Herbívoros/Girafa.jpg",
+      "type": "Herbívoro"
+    },
+    {
+      "nome": "Cavalo",
+      "infor": ["As girafas são animais sociais e geralmente vivem em grupos chamados de (manadas). Essas manadas podem ser compostas por fêmeas adultas e seus filhotes. Os machos tendem a ser solitários ou formar grupos menores.", "Os cavalos são animais domesticados e têm sido usados para uma variedade de propósitos, como transporte, trabalho agrícola, esportes e lazer.", "Os cavalos são herbívoros e se alimentam principalmente de capim, feno, grãos e outros alimentos vegetais.", "Os cavalos se comunicam por meio de vocalizações, como relinchos, e também usam linguagem corporal, como movimentos de orelhas, postura corporal e expressões faciais, para se comunicarem com outros cavalos e com os humanos.", "Os cavalos têm um forte instinto de fuga e são conhecidos por sua velocidade e agilidade. Eles têm a capacidade de correr em alta velocidade para escapar de perigos percebidos."],
+      "url": "img animais/Herbívoros/Cavalo.webp",
+      "type": "Herbívoro"
+    },
+    {
+      "nome": "Vaca",
+      "infor": ["As vacas são animais domesticados e têm sido criadas por seres humanos há milhares de anos.", "As vacas são animais herbívoros e se alimentam principalmente de capim, feno, silagem e outros alimentos vegetais.", "As vacas leiteiras são criadas especificamente para a produção de leite. Elas são ordenhadas regularmente para coletar o leite, que é usado para consumo humano e para a produção de produtos lácteos, como queijo, iogurte e manteiga.", "As vacas são animais sociais e vivem em grupos chamados de rebanhos. Elas estabelecem laços sociais e têm uma hierarquia dentro do grupo. As vacas também têm uma forte ligação com seus filhotes.", "As vacas desempenham um papel importante na economia agrícola em muitos países. A produção de leite e carne bovina é uma indústria significativa, fornecendo alimentos e empregos para muitas pessoas."],
+      "url": "img animais/Herbívoros/Vaca.jpg",
+      "type": "Herbívoro"
+    },
+    {
+      "nome": "Coelho",
+      "infor": ["O termo (coelho) é usado para se referir a várias espécies de oito gêneros diferentes, incluindo o coelho-de-amami, coelhos-americanos e coelho-pigmeu. A espécie mais comum é o coelho-europeu (Oryctolagus cuniculus)", "Os coelhos têm uma tendência natural de fugir de predadores. Quando ameaçados, eles podem correr rapidamente e saltar a uma distância superior a 3 metros, alcançando velocidades de até 100 km/h.", "Os coelhos são animais herbívoros e se alimentam principalmente de capim, folhas, brotos e raízes. Eles têm um sistema digestivo especializado que lhes permite extrair nutrientes de alimentos vegetais fibrosos", "Os coelhos são conhecidos por sua capacidade de reprodução rápida. As fêmeas podem ter várias ninhadas por ano, com cada ninhada geralmente consistindo em vários filhotes chamados de (lebres).", "Os coelhos são animais sociais e podem viver em grupos chamados de (colônias) ou (tocas). Eles se comunicam por meio de vocalizações suaves, como ronronar, e também usam linguagem corporal, como movimentos de orelhas e posturas corporais, para se comunicarem entre si."],
+      "url": "img animais/Herbívoros/Coelho.jpeg",
+      "type": "Herbívoro"
+    },
+    {
+      "nome": "Panda",
+      "infor": ["Os pandas têm uma aparência única, com manchas pretas ao redor dos olhos, orelhas redondas, corpo volumoso e pelagem preta e branca. Eles têm uma cabeça grande e arredondada, com uma expressão facial adorável.", "Os pandas são herbívoros e se alimentam principalmente de bambu. Eles têm um sistema digestivo especializado para processar o bambu, que é uma fonte de alimento de baixo valor nutricional.", "Os pandas gigantes são nativos das montanhas da China central, principalmente nas províncias de Sichuan, Shaanxi e Gansu. Eles vivem em florestas de bambu de alta altitude, onde encontram seu alimento principal.", "Os pandas gigantes são uma espécie ameaçada de extinção. A destruição do habitat, a fragmentação das populações e a caça ilegal são as principais ameaças que eles enfrentam.", "Os pandas são animais solitários e têm uma natureza tranquila. Eles passam a maior parte do tempo procurando por comida e descansando. Os machos e as fêmeas geralmente se encontram apenas durante a época de acasalamento."],
+      "url": "img animais/Herbívoros/Panda.webp",
+      "type": "Herbívoro"
+    },
+    {
+      "nome": "Caranguejo",
+      "infor": ["Diversidade de Espécies: Existem várias espécies de caranguejos em todo o mundo, com uma ampla variedade de tamanhos, formas e cores.", "Os caranguejos podem ser encontrados em diferentes ambientes, incluindo água doce, marinha e até mesmo terrestre.", "A alimentação dos caranguejos varia de acordo com a espécie. Alguns caranguejos são onívoros, se alimentando de vegetais, animais e até mesmo de carniça.", "A reprodução dos caranguejos também varia entre as espécies. Alguns caranguejos têm um ciclo de vida complexo, passando por estágios larvais antes de se tornarem adultos. A reprodução geralmente ocorre na água, onde os ovos são liberados e fertilizados.", "Os caranguejos têm importância econômica significativa em muitas regiões costeiras. Eles são capturados para consumo humano, sendo uma iguaria em muitas culturas."],
+      "url": "img animais/Crustáceos/Caranguejo.jpg",
+      "type": "Crustáceo"
+    },
+    {
+      "nome": "Lagosta",
+      "infor": ["Lagostas possuem um exoesqueleto externo que fornece suporte estrutural ao corpo.", "Lagostas têm garras grandes e fortes, especialmente as quelas dianteiras.", "As lagostas têm a capacidade de regenerar partes do corpo, incluindo garras e pernas.", "As antenas das lagostas são órgãos sensoriais cruciais. Elas desempenham um papel importante na detecção de alimentos, na comunicação social entre lagostas e na percepção do ambiente ao redor.", "Lagostas são encontradas principalmente em ambientes marinhos, vivendo no fundo do oceano."],
+      "url": "img animais/Crustáceos/Lagosta.webp",
+      "type": "Crustáceo"
+    },
+    {
+      "nome": "Siri",
+      "infor": ["Assim como as lagostas, os siris possuem um exoesqueleto externo robusto feito de quitina, que oferece suporte e proteção ao corpo.", "Os siris têm uma garra maior e mais robusta (quela) e outra mais fina. Essa assimetria é útil para diferentes funções, como agarrar alimentos, se defender contra predadores e interagir com o ambiente.", "Os siris podem ser encontrados em uma variedade de habitats aquáticos, incluindo águas salgadas, salobras e até água doce.", "Siris são animais onívoros, o que significa que se alimentam tanto de matéria vegetal quanto animal.", "Ao contrário de muitos animais que se movem para frente, os siris têm um estilo de deslocamento lateral."],
+      "url": "img animais/Crustáceos/siri.jpg",
+      "type": "Crustáceo"
+    },
+    {
+      "nome": "Camarão",
+      "infor": ["Os camarões têm corpos longos e geralmente são mais delicados em comparação com lagostas e siris.", "Assim como outros crustáceos, os camarões têm um exoesqueleto externo feito de quitina, que fornece suporte e proteção ao corpo.", "Diferentemente de lagostas e siris, muitos camarões são nadadores ágeis.", "Os camarões são encontrados em uma variedade de ambientes aquáticos, desde água doce até água salgada.", "A dieta dos camarões é diversificada e pode incluir desde pequenos organismos planctônicos até detritos orgânicos."],
+      "url": "img animais/Crustáceos/Camarão.jpg",
+      "type": "Crustáceo"
+    },
+    {
+      "nome": "Krill",
+      "infor": ["O krill é um pequeno crustáceo, geralmente medindo apenas alguns centímetros de comprimento.", "O krill é um alimentador filtrador, o que significa que se alimenta filtrando partículas de alimentos, como fitoplâncton, da água.", "O krill desempenha um papel crucial na cadeia alimentar marinha. Muitos animais, como baleias, focas, pinguins e diversos peixes, dependem do krill como fonte principal de alimento.", "Em algumas regiões, o krill realiza migrações em massa, movendo-se verticalmente na coluna d'água ao longo do dia.", "Algumas espécies de krill exibem bioluminescência, o que significa que são capazes de produzir luz."],
+      "url": "img animais/Crustáceos/Krill.webp",
+      "type": "Crustáceo"
+    },
+    {
+      "nome": "Tigre",
+      "infor": ["Os tigres são os maiores felinos do mundo. Eles são conhecidos por seu tamanho imponente, com os machos adultos podendo pesar até mais de 300 kg, dependendo da subespécie.", "Os tigres têm uma pelagem distintiva, com listras verticais escuras sobre um fundo alaranjado ou amarelo.", "Historicamente, os tigres eram encontrados em uma ampla variedade de habitats, desde florestas tropicais até savanas e manguezais.", "Os tigres são animais solitários e territoriais. Eles geralmente caçam sozinhos e têm grandes territórios que defendem contra outros tigres do mesmo sexo.", "Os tigres são excelentes caçadores, sendo capazes de se aproximar silenciosamente de suas presas devido às suas patas acolchoadas e garras retráteis."],
+      "url": "img animais/Carnívoros/Tigre.webp",
+      "type": "Carnívoro"
+    },
+    {
+      "nome": "Águia",
+      "infor": ["As águias são conhecidas por sua visão aguda. Elas têm olhos grandes em relação ao tamanho do crânio e uma alta concentração de células sensíveis à luz em suas retinas, o que lhes proporciona uma visão extremamente nítida.", "As águias possuem garras poderosas e afiadas, adaptadas para capturar e segurar presas.", "Águias são aves de rapina que realizam voos majestosos. Elas são capazes de pairar no ar e executar manobras ágeis durante a caça.", "Águias constroem seus ninhos em locais elevados, como rochas, penhascos ou até mesmo no topo de árvores altas.", "Águias são carnívoras e se alimentam principalmente de presas como peixes, mamíferos pequenos e outras aves.", ""],
+      "url": "img animais/Carnívoros/Águia.jpg",
+      "type": "Carnívoro"
+    },
+    {
+      "nome": "Leopardo",
+      "infor": ["Os leopardos são conhecidos por sua pelagem dourada e pintas escuras. As pintas podem variar em tamanho e forma, e a pelagem muitas vezes proporciona camuflagem eficaz em diversos ambientes, incluindo florestas, savanas e matagais.", "Os leopardos são altamente adaptáveis e podem ser encontrados em uma variedade de habitats, desde florestas tropicais até savanas e áreas rochosas.", "Os leopardos são geralmente animais solitários e territoriais. Eles marcam seus territórios com urina e arranhões em árvores.", "Leopardos são excelentes escaladores e frequentemente carregam suas presas para as árvores para evitar que sejam roubadas por outros predadores, como leões ou hienas.", "Leopardos são caçadores noturnos habilidosos. Sua visão noturna aguçada, aliada ao padrão de manchas que oferece camuflagem, torna-os predadores eficientes sob a cobertura da escuridão."],
+      "url": "img animais/Carnívoros/Leopardo.webp",
+      "type": "Carnívoro"
+    },
+    {
+      "nome": "Orca",
+      "infor": ["As orcas são conhecidas por sua inteligência excepcional. ", "Orcas são animais altamente vocais e usam uma variedade de cliques, assobios e chamados para se comunicarem uns com os outros.", "As orcas são caçadoras eficientes e trabalham juntas para capturar presas.", "Orcas têm uma dieta diversificada que varia geograficamente. Alimentam-se de peixes, lulas e, em alguns casos, mamíferos marinhos, como focas e até mesmo tubarões.", "Orcas são conhecidas por suas migrações sazonais."],
+      "url": "img animais/Carnívoros/Orca.webp",
+      "type": "Carnívoro"
+    },
+    {
+      "nome": "Hiena",
+      "infor": ["As hienas vivem em grupos sociais conhecidos como clãs. A estrutura social é liderada por fêmeas dominantes e é caracterizada por uma hierarquia complexa.", "Embora muitas vezes sejam associadas à carroñeria, as hienas também são caçadoras eficazes.", "As hienas são conhecidas por sua vocalização distintiva, que é frequentemente descrita como uma (risada).", "As hienas podem ser encontradas em uma variedade de habitats, desde savanas e planícies até áreas arborizadas.","Em muitas espécies de hienas, como a hiena-malhada (ou hiena-malhada-maior), as fêmeas ocupam posições dominantes na hierarquia social. Elas são geralmente maiores e mais agressivas que os machos."],
+      "url": "img animais/Carnívoros/Hiena.jpeg",
+      "type": "Carnívoro"
+    } 
+  ]
