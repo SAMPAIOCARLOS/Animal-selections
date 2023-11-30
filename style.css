@@ -15,7 +15,7 @@
 }
 
 body{
-    min-height: 100vh;
+    height: 100vh;
     background-color: var(--color--background);
     color: var(--color--text);
     display: flex;
@@ -46,6 +46,7 @@ header{
 
 main{
     width: 94%;
+    height: 90%;
     /* border: 1px solid red; */
     margin: auto;
     display: flex;
@@ -75,12 +76,17 @@ main{
 .modal.open {
     display: block;
 }
+#grupo-selecttwo{
+    /* border: 3px solid #fff; */
+    width: 70%;
+    display: flex;
+    gap: 60px;
+}
 
 #main-Select{
     width: 40%;
     min-width: 300px;
-    height: 530px;
-    max-height: 530px;
+    height: 100%;
     background-color: var(--color--card);
     border-radius: 20px;
     display: flex;
@@ -122,10 +128,18 @@ main{
     gap: 20px;
     padding: 20px;
     align-items: center;
-    max-height: 530px;
+    height: 100%;
+}
+aside{
+    width: 90%;
+    height: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
 }
 .Imagem{
-    width: 80%;
+    width: 100%;
     min-width: 300px;
     height: 430px;
     max-height: 380px;
@@ -160,13 +174,14 @@ main{
 #main-Results{
     width: 30%;
     min-width: 300px;
-    max-height: 530px;
+    
     background-color: var(--color--card);
     border-radius: 20px;
     padding: 20px;
     display: flex;
     flex-direction: column;
     gap: 30px;
+    /* display: none; */
 }
 #myul{
     /* border: 1px solid rgb(38, 255, 0); */
@@ -203,17 +218,12 @@ main{
     flex-direction: column;
     gap: 20px;
 }
-#testando{
-    /* border: 3px solid #fff; */
-    width: 70%;
-    display: flex;
-    gap: 60px;
-}
+
 @media(max-width: 1190px) {
     main{
         flex-wrap: wrap;
     }
-    #testando{
+    #grupo-selecttwo{
         width: 100%;
     }
     #main-Results{
@@ -227,14 +237,17 @@ main{
     }
 }
 @media(max-width: 807px) {
-    #testando{
+    #grupo-selecttwo{
         flex-wrap: wrap;
+        
     }
     #main-Select{
         width: 100%;
+        height: 550px;
     }
     #main-Vill{
         width: 100%;
+        height: 550px;
     }
 }
 @media(max-width: 444px) {
