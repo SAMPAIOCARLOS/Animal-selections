@@ -259,4 +259,7 @@ aside{
     #main-Vill{
         text-align: center;
     }
+    header{
+        padding: 20px;
+    }
 }
