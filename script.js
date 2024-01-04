@@ -1,14 +1,30 @@
 const myselect = document.getElementById('myselect')
 const TwoSelect = document.getElementById('TwoSelect')
 const myul = document.getElementById('myul')
+let body = document.body
 
 const Imagem = document.getElementById('Imagem')
 const Nameh1 = document.getElementById('Nameh1')
 const TypeAnimal = document.getElementById('TypeAnimal')
 
+const ButtonTheme = document.getElementById('ButtonTheme')
+const span = document.getElementById('spanTheme')
+
+const theme = localStorage.getItem('theme')
+
+if(!theme) {
+    body.classList.remove('theme-white')
+}
+
+if(theme === 'white') {
+    body.classList.add('theme-white')
+    ButtonTheme.style.justifyContent = 'flex-end'
+    span.innerHTML = '<ion-icon name="sunny-outline" class="Theme-ion-icon"></ion-icon>'
+}
+
 document.body.addEventListener('keypress', (event) => {
 if (event.key == 'Enter') {
-    document.querySelector('.modal').classList.remove('open');
+    document.querySelector('.modal').classList.remove('open');            
   }
 })
 
@@ -116,10 +132,12 @@ TwoSelect.addEventListener('change', async ()=> {
                         } else{
                             newInfor.style.display = 'none'
                         }
-                    })             
+                    })      
+                           
                 }            
             }
         }
+
     } catch (error) {
         console.log(`Infelizmente Aconteceu ${error}`)
         console.log(error)
@@ -130,4 +148,40 @@ TwoSelect.addEventListener('change', async ()=> {
         modal.classList.add('open')
     }
     
+})
+
+ButtonTheme.addEventListener('click', ()=> {
+
+    body.classList.toggle('theme-white')
+    body.classList.toggle('theme-transition')
+    
+    if(body.classList.contains('theme-white')) {
+        localStorage.setItem('theme', 'white')
+        ButtonTheme.style.justifyContent = 'flex-end'
+        span.innerHTML = '<ion-icon name="sunny-outline" class="Theme-ion-icon"></ion-icon>'
+        
+    } else{
+        localStorage.setItem('theme', 'dark')
+        ButtonTheme.style.justifyContent = 'flex-start'
+        span.innerHTML = '<ion-icon name="cloudy-night-outline" class="Theme-ion-icon"></ion-icon>'
+    }
+
+    setTimeout(()=> {
+        body.classList.remove('theme-transition')
+    },500)
+})
+
+let tamanho = 16
+
+const aumentar = document.getElementById('aumentar').addEventListener('click', ()=> {
+    tamanho += 1
+
+    document.body.style.fontSize = tamanho + 'px'
+
+})
+
+const diminuir = document.getElementById('diminuir').addEventListener('click', ()=> {
+    tamanho -= 1
+
+    document.body.style.fontSize = tamanho + 'px'
 })
